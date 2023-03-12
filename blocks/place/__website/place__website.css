@@ -1,0 +1,12 @@
+.place__website {
+  width: 90%;
+  margin: auto;
+}
+
+@media screen and (min-width: 768px) {
+  .place__website {
+    width: 100%;
+    margin: 0;
+    align-self: end;
+  }
+}

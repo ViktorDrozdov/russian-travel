@@ -6,10 +6,15 @@
   text-align: right;
   color: #fff;
   text-decoration: underline;
+  transition: opacity .3s ease;
 }
 
 .header__lang-link:last-child {
   text-decoration: none;
+}
+
+.header__lang-link:hover {
+  opacity: .8;
 }
 
 @media screen and (min-width: 768px) {
