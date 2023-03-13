@@ -1,9 +1,15 @@
 .intro__text {
-  margin: 40px 0 33px;
+  margin: 39px 0 34px;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 26px;
+  line-height: 1.625;
+}
+
+@media screen and (min-width: 768px) {
+  .intro__text {
+    margin-bottom: 33px;
+  }
 }
 
 @media screen and (min-width: 1024px) {
