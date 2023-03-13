@@ -7,4 +7,4 @@
 * Grid Layout
 * Адаптивная верстка
 
-[Ссылка на сайт](https://viktordrozdov.github.io/how-to-learn/)
+[Ссылка на сайт](https://viktordrozdov.github.io/russian-travel/)
