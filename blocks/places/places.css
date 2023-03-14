@@ -2,12 +2,16 @@
   margin: 0 auto;
   width: 100%;
   padding-top: 64px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 49px;
 }
 
 @media screen and (min-width: 768px) {
   .places {
     width: 93.75%;
-    padding-top: 88px;
+    padding-top: 90px;
+    row-gap: 73px;
   }
 }
 
@@ -15,6 +19,7 @@
   .places {
     width: 90.63%;
     padding-top: 91px;
+    row-gap: 80px;
   }
 }
 

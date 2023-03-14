@@ -1,6 +1,9 @@
 .place__paragraphs {
   width: 90%;
   margin: auto;
+  display: flex;
+  flex-direction: column;
+  row-gap: 25px;
 }
 
 @media screen and (min-width: 768px) {
