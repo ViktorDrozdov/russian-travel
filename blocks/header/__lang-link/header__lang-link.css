@@ -5,12 +5,8 @@
   line-height: 1.1;
   text-align: right;
   color: #fff;
-  text-decoration: underline;
-  transition: opacity .3s ease;
-}
-
-.header__lang-link:last-child {
   text-decoration: none;
+  transition: opacity .3s ease;
 }
 
 .header__lang-link:hover {

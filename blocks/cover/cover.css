@@ -3,10 +3,6 @@
   padding-top: 66px;
 }
 
-.cover:hover .cover__overlay {
-  opacity: .8;
-}
-
 @media screen and (min-width: 768px) {
   .cover {
     padding-top: 41px;
