@@ -1,20 +1,19 @@
 .cover__title {
-  margin: 0;
+  margin: 0 auto;
   font-style: normal;
-  width: 288px;
-  height: 100%;
+  max-width: 288px;
+  width: 100%;
   font-weight: 900;
   font-size: 32px;
-  line-height: 1.09;
+  line-height: 109%;
   text-align: center;
 }
 
-/* @media screen and (min-width: 768px) {
+@media screen and (min-width: 768px) {
   .cover__title {
-    width: 560px;
+    max-width: 560px;
+    width: 100%;
     font-size: 72px;
-    line-height: 1.05;
-    margin-top: -125px;
-    margin-left: -280px;
+    line-height: 106%;
   }
-} */
+}
