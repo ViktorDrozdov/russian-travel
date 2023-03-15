@@ -2,19 +2,14 @@
   margin: 0;
   font-style: normal;
   width: 288px;
+  height: 100%;
   font-weight: 900;
   font-size: 32px;
   line-height: 1.09;
   text-align: center;
-  position: absolute;
-  top: 50%;
-  margin-top: -66px;
-  left: 50%;
-  margin-left: -144px;
-  z-index: 3;
 }
 
-@media screen and (min-width: 768px) {
+/* @media screen and (min-width: 768px) {
   .cover__title {
     width: 560px;
     font-size: 72px;
@@ -22,4 +17,4 @@
     margin-top: -125px;
     margin-left: -280px;
   }
-}
+} */
